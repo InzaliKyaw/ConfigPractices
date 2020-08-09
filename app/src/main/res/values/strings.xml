@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name_dev">GradleDev</string>
+    <string name="app_name_prod">PADC Gradle</string>
+</resources>
